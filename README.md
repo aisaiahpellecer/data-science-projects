@@ -21,6 +21,10 @@ This is a repository to showcase skills, share projects and track my progress in
 ***
 ## Certificates
 ***
+* [Joining Data with Pandas](https://drive.google.com/drive/u/0/folders/1l7-tOYnUlfqf_z-r_I0NGycoyeT9bnc5)(Oct 2022)(Datacamp)
+* [Intermediate Python](https://drive.google.com/drive/u/0/folders/1l7-tOYnUlfqf_z-r_I0NGycoyeT9bnc5)(Oct 2022)(Datacamp)
+* [Data Manipulation with Pandas](https://drive.google.com/drive/u/0/folders/1l7-tOYnUlfqf_z-r_I0NGycoyeT9bnc5)(Oct 2022)(Datacamp)
+* [Introduction to Data Science in Python](https://drive.google.com/drive/u/0/folders/1l7-tOYnUlfqf_z-r_I0NGycoyeT9bnc5)(July 2022)(Datacamp)
 ## Contacts
 * **Email:** pellecer.aisaiah8@gmail.com
 * **Linkedin:** [apellecer1](https://www.linkedin.com/in/apellecer1/)
