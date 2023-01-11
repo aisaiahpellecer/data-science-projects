@@ -1,7 +1,7 @@
 # Aisaiah Pellecer - Data Analysis/ Data Science Portfolio
 ## About
 ***
-Hello, I'm Aisaiah Pellecer! I am an Information Sciences (B.S) student at the university of Illinois at Urbana-Champaign, where I focuse on their data science pathway. I am really interested in data science and opportunties within the field. This past summer(2022), I had the opportunity to work at [MAPSCorps](https://mapscorps.org/) as a data coordinator. Under this position I was able to work with South Shore Works, a community-based organization, and construct a data-driven policy repsonse using City of Chicago data and MAPSCorps community asset database. At the end of the summer my team and I presented our reponse at the MAPSCorps Scientific Symposium and we were selected as the best team, winning the data driven community-advocacy award ($10K scholarship!). In addition to my experience at MAPSCorps I was a Líderes Avanzado Fellow at [UnidosUS, the nation's largest civil right organization](https://www.unidosus.org/). From my experiences I understand how important Data Sciecne is to our society  and I am eager to learn more!
+Hello, I'm Aisaiah Pellecer! I am an Information Sciences (B.S) student at the University of Illinois at Urbana-Champaign, where I focuse on their data science pathway. I am really interested in data science and opportunties within the field. This past summer (2022), I had the opportunity to work at [MAPSCorps](https://mapscorps.org/) as a data coordinator. Under this position I was able to work with South Shore Works, a community-based organization, and construct a data-driven policy repsonse using City of Chicago data and MAPSCorps community asset database. At the end of the summer my team and I presented our reponse at the MAPSCorps Scientific Symposium and we were selected as the best team, winning the data driven community-advocacy award ($10K scholarship!). In addition to my experience at MAPSCorps I was a Líderes Avanzado Fellow at [UnidosUS, the nation's largest civil right organization](https://www.unidosus.org/). From my experiences I understand how important Data Sciecne is to our society  and I am eager to learn more!
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -21,13 +21,14 @@ This is a repository to showcase skills, share projects and track my progress in
 **Code:** [`cps_analysis.ipynb`](https://github.com/aisaiahpellecer/data-science-projects/blob/main/sample_survey_data_analysis/cps_analysis.ipynb)    
 **Description:** In an effort to add more to my Github portfolio I have decided to redo a past STATA project using Python. The Project was Sample Survey Data Analysis. I had completed the project for my Introduction to Econometrics Course at Bard College. Although, I appreciate that I was able to code in STATA, I believe that it would be much more beneficial for me to conduct this type analysis on Python; for my own personal growth and because softwares like Python and R are commonly used in the Data Analytics industry.
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, data visualization.  
-**Technology:** Python, Pandas, Numpy, Matplotlib.  
+**Technology:** Visual Studio Code, Jupyter Notebook Extension, Python, Pandas, Numpy, Matplotlib.  
 **Results:** 
 
 ## Study Projects
 ***
 ## Certificates
 ***
+* [Data Science Discovery Course](https://d7.cs.illinois.edu/badges/stat107-fa22-BJ0P8HMSwLqf8Ntq3D68ok0pAuRKnN/)(Fall 2022)(University of Illinois Urbana-Champaign)
 * [Joining Data with Pandas](https://drive.google.com/file/d/19A2Hf6Wi5zpH29y5VeydL0HFHttxeDHS/view)(Oct 2022)(Datacamp)
 * [Intermediate Python](https://drive.google.com/file/d/1zVg6MyNNQ_PrEoL9itQi2rq5JGjqBpCg/view)(Oct 2022)(Datacamp)
 * [Data Manipulation with Pandas](https://drive.google.com/file/d/1XK9StjriK7zb4fI7vsXR-MsK2Ox76oPx/view)(Oct 2022)(Datacamp)
