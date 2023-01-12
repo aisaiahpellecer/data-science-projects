@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technology:** Visual Studio Code, Jupyter Notebook Extension, Python, Pandas, Numpy, Matplotlib.  
 
 ### MAPSCorps South Shore Research Project
-** Description: 
+**Description:**
 * MAPSCorps students become confident and capable communicators and meet high standards as they develop basic job skills. Youth are challenged to demonstrate personal integrity and apply their best critical thinking skills to the scientific, health, and civic engagement components of the MAPSCorps experience.
 * MAPSCorps produces an annual census of high quality data about all the businesses and organizations in a community. These data are used by healthcare professionals, policymakers, researchers, leaders, entrepreneurs, residents and others for better health, well-being and economic vitality.
 
@@ -38,7 +38,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Respository:** ['Course Projects'](https://github.com/stat107-illinois/fa22_stat107_aisaiah2)
 ## Certificates
 ***
-* [Data Science Discovery Course](https://d7.cs.illinois.edu/badges/stat107-fa22-BJ0P8HMSwLqf8Ntq3D68ok0pAuRKnN/)(Fall 2022)(University of Illinois Urbana-Champaign)
+* [**Data Science Discovery Course**](https://d7.cs.illinois.edu/badges/stat107-fa22-BJ0P8HMSwLqf8Ntq3D68ok0pAuRKnN/)(Fall 2022)(University of Illinois Urbana-Champaign)
 * [Joining Data with Pandas](https://drive.google.com/file/d/19A2Hf6Wi5zpH29y5VeydL0HFHttxeDHS/view)(Oct 2022)(Datacamp)
 * [Intermediate Python](https://drive.google.com/file/d/1zVg6MyNNQ_PrEoL9itQi2rq5JGjqBpCg/view)(Oct 2022)(Datacamp)
 * [Data Manipulation with Pandas](https://drive.google.com/file/d/1XK9StjriK7zb4fI7vsXR-MsK2Ox76oPx/view)(Oct 2022)(Datacamp)
