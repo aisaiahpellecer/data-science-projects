@@ -32,6 +32,7 @@ Alongside my commitments to , here's an opportunity to look at the work produced
 **Project Poster:** [MAPSCorps Research Posters 2022 | South Shore Works](https://drive.google.com/file/d/1r9A5sLaA5R6yynjcDNg-2szkuM9ceHhP/view?usp=sharing)
 
 **Project Video:** [MAPSCorps Scientific Symposium 2022 | South Shore Works](https://www.youtube.com/watch?v=UC0Xm9bb4Ag&list=PLGUoNK52Wlj2Av1Je5mVXeXAqvDG9WmlK&ab_channel=MAPSCorps)
+
 **Technology:** Anaconda, Jupyter Notebook Extension, Python, Pandas, Matplotlib, Adobe Illustrator.  
 
 
