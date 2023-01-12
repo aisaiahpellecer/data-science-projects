@@ -24,10 +24,12 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technology:** Visual Studio Code, Jupyter Notebook Extension, Python, Pandas, Numpy, Matplotlib.  
 
 ### MAPSCorps South Shore Research Project
-**Description:** It was a pleasure to continue this work, this past summer, as a City of Chicago STEAMbassador and Data Coordinator for MAPSCorps, a non-profit organization focused on data-driven community advocacy. As part of my internship, I was able to work with community-based organizations on the Southside of Chicago, educate youth on data literacy and data analytics, and guide the development of a research project on the relationship between asset-conditions in the South Shore community area and gun-violence. Due to the quality of our project, my team was awarded with the MAPSCorps Data-Driven Community Advocacy award, a $10,000 Group Scholarship. 
+**Description:** It was a pleasure to continue this work, this past summer, as a City of Chicago STEAMbassador and Data Coordinator for MAPSCorps, a non-profit organization focused on data-driven community advocacy. As part of my internship, I was able to work with community-based organizations on the Southside of Chicago, educate youth on data literacy and data analytics, and guide the development of a research project on the relationship between asset-conditions in the South Shore community area and gun-violence. Due to the quality of our project, my team was awarded with the MAPSCorps Data-Driven Community Advocacy award, a $10,000 Group Scholarship.
 
 * MAPSCorps students become confident and capable communicators and meet high standards as they develop basic job skills. Youth are challenged to demonstrate personal integrity and apply their best critical thinking skills to the scientific, health, and civic engagement components of the MAPSCorps experience.
 * MAPSCorps produces an annual census of high quality data about all the businesses and organizations in a community. These data are used by healthcare professionals, policymakers, researchers, leaders, entrepreneurs, residents and others for better health, well-being and economic vitality.
+
+Alongside my commitments to , here's an opportunity to look at the work produced by my team and youth of the South Shore Site!
 
 **Project Poster:** [South Shore Works Site](https://drive.google.com/file/d/1qNnRAg3cbtCRDHeOr8hjBlroVs444Eej/view?usp=sharing)
 
@@ -41,6 +43,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Certificates
 ***
 * [**Data Science Discovery Course**](https://d7.cs.illinois.edu/badges/stat107-fa22-BJ0P8HMSwLqf8Ntq3D68ok0pAuRKnN/)(Fall 2022)(University of Illinois Urbana-Champaign)
+ 'Data Science Discovery is an open-access data science resource created by The University of Illinois and used as the basis for STAT/CS/IS 107: Data Science Discovery and several other courses. Our mission is to create the most valuable Data Science resource available, both for students at The University of Illinois and for any other learner online.'
 * [Joining Data with Pandas](https://drive.google.com/file/d/19A2Hf6Wi5zpH29y5VeydL0HFHttxeDHS/view)(Oct 2022)(Datacamp)
 * [Intermediate Python](https://drive.google.com/file/d/1zVg6MyNNQ_PrEoL9itQi2rq5JGjqBpCg/view)(Oct 2022)(Datacamp)
 * [Data Manipulation with Pandas](https://drive.google.com/file/d/1XK9StjriK7zb4fI7vsXR-MsK2Ox76oPx/view)(Oct 2022)(Datacamp)
