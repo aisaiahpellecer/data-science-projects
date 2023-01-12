@@ -43,7 +43,9 @@ Alongside my commitments to , here's an opportunity to look at the work produced
 ## Certificates
 ***
 * [**Data Science Discovery Course**](https://d7.cs.illinois.edu/badges/stat107-fa22-BJ0P8HMSwLqf8Ntq3D68ok0pAuRKnN/)(Fall 2022)(University of Illinois Urbana-Champaign)
- 'Data Science Discovery is an open-access data science resource created by The University of Illinois and used as the basis for STAT/CS/IS 107: Data Science Discovery and several other courses. Our mission is to create the most valuable Data Science resource available, both for students at The University of Illinois and for any other learner online.'
+
+'Data Science Discovery is an open-access data science resource created by The University of Illinois and used as the basis for STAT/CS/IS 107: Data Science Discovery and several other courses. Our mission is to create the most valuable Data Science resource available, both for students at The University of Illinois and for any other learner online.'
+
 * [Joining Data with Pandas](https://drive.google.com/file/d/19A2Hf6Wi5zpH29y5VeydL0HFHttxeDHS/view)(Oct 2022)(Datacamp)
 * [Intermediate Python](https://drive.google.com/file/d/1zVg6MyNNQ_PrEoL9itQi2rq5JGjqBpCg/view)(Oct 2022)(Datacamp)
 * [Data Manipulation with Pandas](https://drive.google.com/file/d/1XK9StjriK7zb4fI7vsXR-MsK2Ox76oPx/view)(Oct 2022)(Datacamp)
