@@ -35,9 +35,18 @@ Alongside my commitments to , here's an opportunity to look at the work produced
 
 **Technology:** Anaconda, Jupyter Notebook Extension, Python, Pandas, Matplotlib, Adobe Illustrator.  
 
-
-
 ## Study Projects
+
+
+
+### Health Systems Analysis | IS204: Research Design for Information Sciences
+**Code:** [`IS204.ipynb`](https://github.com/aisaiahpellecer/data-science-projects/blob/main/IS204_Research_Design/IS204.ipynb)    
+**Description:** For this project want to explore the characteristics of various healthcare systems across the nations and understand the potential factors that influence healthcare system performances. By understanding how the quality of the healthcare systems varies under different settings, we can provide solutions to improve the healthcare systems. The dataset used for this research is the Compendium of the U.S. Health Systems (2021 updated). It is provided by the CHSP Initiative and has 637 healthcare systems across the nation. The dataset includes useful variables for analysis such as total counts of physicians, primary care physicians, physician assistants, nurse practitioners, and many more. 
+**Findings Presentation**:[Health_Systems_ Presentation.pdf](https://github.com/aisaiahpellecer/data-science-projects/blob/main/IS204_Research_Design/Health_Systems_%20Presentation.pdf)
+
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualization.  
+**Technology:** Visual Studio Code, Jupyter Notebook Extension, Python, Pandas, Numpy, Matplotlib.  
+
 ***
 ### Data Science Discovery
 **Respository:** ['Course Projects'](https://github.com/stat107-illinois/fa22_stat107_aisaiah2)
