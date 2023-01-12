@@ -27,10 +27,10 @@ This is a repository to showcase skills, share projects and track my progress in
 **Description:** It was a pleasure to continue this work, this past summer, as a City of Chicago STEAMbassador and Data Coordinator for MAPSCorps, a non-profit organization focused on data-driven community advocacy. As part of my internship, I was able to work with community-based organizations on the Southside of Chicago, educate youth on data literacy and data analytics, and guide the development of a research project on the relationship between asset-conditions in the South Shore community area and gun-violence. Due to the quality of our project, my team was awarded with the MAPSCorps Data-Driven Community Advocacy award, a $10,000 Group Scholarship. 
 
 * MAPSCorps students become confident and capable communicators and meet high standards as they develop basic job skills. Youth are challenged to demonstrate personal integrity and apply their best critical thinking skills to the scientific, health, and civic engagement components of the MAPSCorps experience.
-
 * MAPSCorps produces an annual census of high quality data about all the businesses and organizations in a community. These data are used by healthcare professionals, policymakers, researchers, leaders, entrepreneurs, residents and others for better health, well-being and economic vitality.
 
 **Project Poster:** [South Shore Works Site](https://drive.google.com/file/d/1qNnRAg3cbtCRDHeOr8hjBlroVs444Eej/view?usp=sharing)
+
 **Project Video:** [MAPSCorps Scientific Symposium 2022 | South Shore Works](https://www.youtube.com/watch?v=UC0Xm9bb4Ag&list=PLGUoNK52Wlj2Av1Je5mVXeXAqvDG9WmlK&ab_channel=MAPSCorps)
 
 
