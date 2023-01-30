@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 * [Contacts](#contacts)
 ## Portfolio Projects
 ***
-### Sample Survey Analysis
+### ***Sample Survey Analysis***
 **Code:** [`cps_analysis.ipynb`](https://github.com/aisaiahpellecer/data-science-projects/blob/main/sample_survey_data_analysis/cps_analysis.ipynb)    
 **Description:** In an effort to add more to my Github portfolio I have decided to redo a past STATA project using Python. The Project was Sample Survey Data Analysis. I had completed the project for my Introduction to Econometrics Course at Bard College. Although, I appreciate that I was able to code in STATA, I believe that it would be much more beneficial for me to conduct this type analysis on Python; for my own personal growth and because softwares like Python and R are commonly used in the Data Analytics industry.
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, data visualization.  
